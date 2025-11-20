@@ -18,5 +18,7 @@ public class ArrayNumbers06{
         System.out.println(num[2]);
         System.out.println(num[3]);
         
+        sc.close();
+        
        }
 }
